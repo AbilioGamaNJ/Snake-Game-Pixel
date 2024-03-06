@@ -1,0 +1,1 @@
+Este é o jogo Snake2,  e foi totalmente baseado no game Skane, que era utilizado nos celulares de linha mais antiga. Só é possível joga-lo no computador, usando as setas do teclado e a tecla de espaço.
